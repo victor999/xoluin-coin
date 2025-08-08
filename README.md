@@ -15,6 +15,28 @@
 ## Why tail emission?
 After emission is exhausted, many networks rely solely on transaction fees, which can reduce hashrate. Tail emission provides perpetual miner incentives with minimal inflation.
 
+## Tokenomics (Preliminary)
+
+The current proposed token emission model for Xoluin is:
+
+- **Total Premine**: 10% of total supply  
+  - Allocated to development and community funds  
+  - **Vesting**: linear over 24 months  
+  - Held on a public multisig address with transparent tracking
+
+- **Developer Fee**: 2% of block rewards  
+  - Active for the first **2 years** after mainnet launch  
+  - Automatically disabled after that
+
+- **Tail Emission**: 0.5 XOLN per block — forever  
+  - Keeps miners incentivized after halvings
+
+- **Block reward at launch**: 12.5 XOLN  
+  - Halving every 4 years
+
+⛓️ These parameters are **subject to discussion** and will be finalized based on feedback from testnet participants and the wider community.
+
+
 ## Quick Links
 
 - [Website](https://xoluin.com)
