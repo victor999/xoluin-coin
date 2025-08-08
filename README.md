@@ -14,3 +14,9 @@
 
 ## Why tail emission?
 After emission is exhausted, many networks rely solely on transaction fees, which can reduce hashrate. Tail emission provides perpetual miner incentives with minimal inflation.
+
+## Quick Links
+
+- [Website](https://xoluin.com)
+- [Whitepaper](https://xoluin.com/whitepaper.html)
+- [Discord](https://discord.gg/4suskNWjWx)
