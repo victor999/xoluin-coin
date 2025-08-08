@@ -34,7 +34,7 @@ The current proposed token emission model for Xoluin is:
 - **Block reward at launch**: 12.5 XOLN  
   - Halving every 4 years
 
-⛓️ These parameters are **subject to discussion** and will be finalized based on feedback from testnet participants and the wider community.
+These parameters are **subject to discussion** and will be finalized based on feedback from testnet participants and the wider community.
 
 
 ## Quick Links
